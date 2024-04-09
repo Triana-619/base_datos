@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "152613339168",
+    "firebase_url": "https://moviles-a3316-default-rtdb.firebaseio.com",
+    "project_id": "moviles-a3316",
+    "storage_bucket": "moviles-a3316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152613339168:android:bb8462aa8242ab95fe7c45",
+        "android_client_info": {
+          "package_name": "com.triana.base_datos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACkY04WYow3TeQgWjAju95wywtuxLa9Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152613339168:android:f7b7aaf927a29986fe7c45",
+        "android_client_info": {
+          "package_name": "com.triana.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACkY04WYow3TeQgWjAju95wywtuxLa9Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
